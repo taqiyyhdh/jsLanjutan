@@ -1,0 +1,8 @@
+pake let atau const: 
+error terdeteksi
+block scope (seperti bahasa pemrograman lainnya) bukan function scope
+
+kalo pake cons:
+sama aja seperti let tapi digunakan ketika ingin isi variabelnya tetap atau tidak berubah
+seperti i++ itu tidak bisa pake const
+digunakan untuk meminilimasir perubahan state
