@@ -1,3 +1,4 @@
+VARIABEL
 pake let atau const: 
 error terdeteksi
 block scope (seperti bahasa pemrograman lainnya) bukan function scope
@@ -6,3 +7,9 @@ kalo pake cons:
 sama aja seperti let tapi digunakan ketika ingin isi variabelnya tetap atau tidak berubah
 seperti i++ itu tidak bisa pake const
 digunakan untuk meminilimasir perubahan state
+
+FUNCTION
+function declaration >> function seperti pada umummnya
+function expression (disimpan dalam sebuah variabel)
+function arrow >> bentuk ringkas dari function expression
+ex: fex penulisan function (nama) - far (nama) =>
