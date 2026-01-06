@@ -9,7 +9,16 @@ seperti i++ itu tidak bisa pake const
 digunakan untuk meminilimasir perubahan state
 
 FUNCTION
-function declaration >> function seperti pada umummnya
-function expression (disimpan dalam sebuah variabel)
-function arrow >> bentuk ringkas dari function expression
+js memperlakukan function sebagai object
+
+- declaration >> function seperti pada umummnya
+
+- expression (disimpan dalam sebuah variabel)
+
+- arrow >> bentuk ringkas dari function expression
 ex: fex penulisan function (nama) - far (nama) =>
+
+- higher order >> function yang beroperasi pada function yang lain, 
+baik itu digunakan dalam argumen (callback) maupun sebagai retun value
+digunakan untuk menyederhanakan kode efektif efesien
+ex: map, filter, reduce
