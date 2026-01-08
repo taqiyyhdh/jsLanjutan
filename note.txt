@@ -22,3 +22,13 @@ ex: fex penulisan function (nama) - far (nama) =>
 baik itu digunakan dalam argumen (callback) maupun sebagai retun value
 digunakan untuk menyederhanakan kode efektif efesien
 ex: map, filter, reduce
+
+TEMPLATE LITERAL
+>> string literal yang memungkkinkan adanya expression di dalamnya
+  string literal menggunakan '' "" ``
+  string literal dapat di gunakan jika menggunakan back tip `` bisa memperlakukan
++ multi line string 
++ embedded expression 
++ HTML fragments
++ expression interpolation
++ Tagged template
