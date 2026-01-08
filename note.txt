@@ -31,4 +31,9 @@ TEMPLATE LITERAL
 + embedded expression 
 + HTML fragments
 + expression interpolation
-+ Tagged template
++ Tagged template >> bentuk kompleks dari template literals
+  memungkinkan kita untuk membaca template literals melalui sebuah function
+  penggunaan lain:
+  = escaping HTML tags
+  = translation & internalization
+  = styled componens
