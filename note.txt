@@ -37,3 +37,8 @@ TEMPLATE LITERAL
   = escaping HTML tags
   = translation & internalization
   = styled componens
+
+
+DESTRUCTURING ASSIGMENT
+>> expression pada js yang membuat kita dapat membongkar nilai dari array
+  atau propeerti dari object ke dalam var yang terpisah
