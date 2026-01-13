@@ -1,3 +1,7 @@
+JAVASCRIPT
+>> single thread - non-blocking - asynchronous - concrurrent language
+ 
+
 VARIABEL
 pake let atau const: 
 error terdeteksi
@@ -42,3 +46,19 @@ TEMPLATE LITERAL
 DESTRUCTURING ASSIGMENT
 >> expression pada js yang membuat kita dapat membongkar nilai dari array
   atau propeerti dari object ke dalam var yang terpisah
+
+SPREAD OPERATOR
+>> memecah iterables (banyak element) menjadi single element
+
+REST PARAMETER
+>> mempresentasikan argument pad function dengan jumlah yang tidak terbatas menjadi sebuah array
+
+ASYNCHRONOUS JAVASCRIPT
+1. CALLBACKS
+  >> function yang dikirimkan sebagai parameter pada function yang lain
+      function yang dieksekusi setelah fungsi lain selesai dijalankan
+2. PROMISE
+3. AJAX
+4. ASYNC & AWAIT
+
+
