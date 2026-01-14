@@ -58,6 +58,11 @@ ASYNCHRONOUS JAVASCRIPT
   >> function yang dikirimkan sebagai parameter pada function yang lain
       function yang dieksekusi setelah fungsi lain selesai dijalankan
 2. PROMISE
+  >> object yang mempresentasikan keberhasilan/kegagalan sebuah event yang asynchronous di masa yang akan datang
+    janji (terpenuhi / ingkar)
+    states (fulfiled / rejected / pending)
+    callback (resolve / reject / finally)
+    aksi (then / catch)
 3. AJAX
 4. ASYNC & AWAIT
 
