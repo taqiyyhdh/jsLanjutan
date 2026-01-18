@@ -64,6 +64,20 @@ ASYNCHRONOUS JAVASCRIPT
     callback (resolve / reject / finally)
     aksi (then / catch)
 3. AJAX
-4. ASYNC & AWAIT
+4. FECH
+  >> sebuah method pada API pada js modern yang tugasnya mengambil 
+  RESOURCE dari jaringan, dan mengembalikan PROMISE yang selesai (FULLFILLED)
+  ketika ada RESPONSE yang tersedia
+  fetch(resource (url/request object), init(konfigurasi tambahan));
+5. ASYNC & AWAIT
+  asynchronous function
+  >> fungsi yang berjalan secara asynchronous
+    menghasilkan (implisit) PROMISE
+    cara penulisannya sama seperti synchronous function (function biasa)
+
+EEROR HANDLING 
+>> promise (.then() .catch())
+   async await (try catch())
+   fetch (try catch()-throw new error)
 
 
